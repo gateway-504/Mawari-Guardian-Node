@@ -19,8 +19,8 @@
 - Install docker https://docs.docker.com/engine/install/ (skip if already installed)
 
 - Set image name
-- 
   
+
 ```
 export MNTESTNET_IMAGE=us-east4-docker.pkg.dev/mawarinetwork-dev/mwr-net-d-car-uses4-public-docker-registry-e62e/mawari-node:latest
 ```
