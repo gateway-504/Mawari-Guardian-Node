@@ -4,10 +4,8 @@
 - **CPU**: 2 Dedicated vCPU with preferably 3GHz+ clock speed
 - **Memory**: 4 GB RAM  
 - **Disk**: 100 GB HDD or higher
-- **Bandwidth**: 800Mbps or higher
-- **Open TCP Ports**: 8231, 8085, 9864
-- **Open UDP Ports**: 7621
-  
+
+
 ## Preparation
 
 - Claim faucet at https://hub.testnet.mawari.net/
