@@ -61,12 +61,11 @@ Logs will appear like below:
 2025-09-09T13:54:16.098Z    [DEBUG]    burner wallet cache written    {"file": "/app/cache/flohive-cache.json"}
 2025-09-09T13:54:16.098Z    [DEBUG]    generated burner wallet    {"address": "<your burner wallet appears here>"}
 2025-09-09T13:54:16.102Z    [INFO]    Using burner wallet    {"address": "<your burner wallet appears here>"}
-Find and save the Burner wallet for delegation
 ```
 
 
+- Find and save the Burner wallet for delegation
 - Send 1.1 mawari token to the Burner wallet above
-
 - Detach screen: ctrl a + d
 
 ## Node Activation
